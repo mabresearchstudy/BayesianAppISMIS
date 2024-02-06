@@ -3,4 +3,4 @@ Extended results of the paper "Bayesian Approach for Parameter Estimation in Veh
 # Pairwise plot between each of the parameters to be estimated, visualizing the convergence of samples towards the posterior probability distribution during the iterations of the ABC-SMC algorithm.
 
 
-![](https://raw.githubusercontent.com/mabresearchstudy/BayesianAppISMIS/Figures/ABC-SMC_population.png)
+![](/../Figures/ABC-SMC_population.png)
