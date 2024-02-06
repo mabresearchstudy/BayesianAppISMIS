@@ -1,10 +1,10 @@
 Detailed algorithms and extended results of the paper "Bayesian Approach for Parameter Estimation in Vehicle Lateral Dynamics" (Fabien Lionti, Nicolas Gutowski, Sébastien Aubin, Philippe Martinet) - Submitted in ISMIS2024
 
 
-## Algorithm 1 - ABC Algorithm
+## Algorithm - ABC Algorithm
 ![](https://github.com/mabresearchstudy/BayesianAppISMIS/blob/main/Figures/abc.png)
 
-## Algorithm 2 - ABC-SMC Algorithm
+## Algorithm - ABC-SMC Algorithm
 ![](https://github.com/mabresearchstudy/BayesianAppISMIS/blob/main/Figures/abc-smc.png)
 
 ## Figure A - Evolution of $v_y(x)$. In red, the trajectory followed for the parameterization $\hat{\theta}$, in blue for $\theta^*$, and dashed line represents the interpolation $S_{vy}(x)$.
